@@ -1,16 +1,10 @@
+<style>
+
 body {
   background-color: lightblue;
 }
+  img {
+    border-radius: 8px;
+  }
 
-h1 {
-  color: white;
-  text-align: center;
-}
-potrait--image {
-    height:100px;
-    width: 100px;
-}
-p {
-  font-family: verdana;
-  font-size: 20px;
-}
+</style>
